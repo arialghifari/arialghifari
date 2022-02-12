@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @arialghifari
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Laravel and React
+- 🌱 I’m currently learning javascript stack
 - 💞️ I’m looking to collaborate on Web App
