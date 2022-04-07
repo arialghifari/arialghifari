@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Ari
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Javascript (ReactJs)
-- 💞️ I’m looking to collaborate on Web App
+- 👋 Hi there, my name is Ari
+- 👀 I’m interested in Frontend Web Development
+- 🌱 I’m currently working with React, Tailwind, Nodejs
+- 💞️ I’m looking for any collaboration on web
