@@ -1,3 +1,4 @@
+### Introduction
 - 👋 Hi there, my name is Ari
 - 👀 I’m interested in Frontend Web Development
 - 🌱 My current stack is React and Tailwind
