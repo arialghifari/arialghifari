@@ -3,13 +3,15 @@ Hello, my name is Ari. I'm a Front-End Web Developer live in a beautiful island 
 
 ### Tech Stack
 ![React JS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next JS](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
+![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-![ReactRouter](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=reactrouter)
-![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
+![React Query](https://img.shields.io/badge/-React%20Query-333333?style=flat&logo=reactquery)
+![React Router](https://img.shields.io/badge/-React%20Router-333333?style=flat&logo=reactrouter)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![Node JS](https://img.shields.io/badge/-Node%20JS-333333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ### Stats
 <p align="left">
